@@ -1,17 +1,3 @@
-## FisicalCoach API Backend
-
-API del proyecto FisicalCoach en Laravel framework.
-
-- [FisicalCoach API producción](https://dev.fisicalcoach.com)
-- [FisicalCoach API local](http://127.0.0.1:8083/)
-- [FisicaCoach CDN](https://cdn.fisicalcoach.com/resources)
-- [Documentación API y ejemplos](https://doc.fisicalcoach.com/)
-
-## Instalación
-
-- Clonar el proyecto desde el repositorio `https://bitbucket.org/APPYWEB/fisicalcoach-laravel/`
-  1. HTTP: `git clone https://bitbucket.org/APPYWEB/fisicalcoach-laravel.git`
-  2. SSH: `git clone git@bitbucket.org:APPYWEB/fisicalcoach-laravel.git`
 
 ## Puesta en marcha
 
